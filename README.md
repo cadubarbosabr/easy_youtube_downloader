@@ -6,7 +6,7 @@ O Easy YouTube Downloader é uma aplicação de desktop simples e intuitiva que 
 Para utilizar o Easy YouTube Downloader, siga os passos abaixo:
 
 👍Clone o repositório:
-git clone https://github.com/seu-usuario/easy-youtube-downloader.git
+git clone https://github.com/cadubarbosabr/easy_youtube_downloader.git
 
 ✌️Instale as dependências:
 pip install -r requirements.txt
